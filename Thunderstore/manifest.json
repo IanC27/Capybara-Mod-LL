@@ -1,8 +1,8 @@
 {
     "name": "CapybaraScrapLL",
     "description": "This mod adds a couple of chill new pieces of scrap to the game. Made for my friends for a bit of fun. Now using LethalLib",
-    "version_number": "1.0.1",
-    "website_url": "",
+    "version_number": "1.0.2",
+    "website_url": "https://github.com/IanC27/Capybara-Mod-LL",
     "dependencies": [
 	"BepInEx-BepInExPack-5.4.2100",
 	"Evaisa-HookGenPatcher-0.0.5",
