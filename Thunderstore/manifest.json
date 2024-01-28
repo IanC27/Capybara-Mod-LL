@@ -1,0 +1,9 @@
+{
+    "name": "CapybaraScrapLL",
+    "description": "This mod adds a couple of chill new pieces of scrap to the game. Made for my friends for a bit of fun. Now using LethalLib",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "dependencies": [
+        "Evaisa-LethalLib-0.13.2"
+    ]
+}
